@@ -1,0 +1,38 @@
+.App .App-header .App-title {
+  text-align: center;
+}
+.App .App-intro .Configurations {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.App .App-intro .Configurations .Tabs {
+  margin-bottom: 20px;
+}
+.App .App-intro .Configurations .Tabs button {
+  display: inline-block;
+  margin-right: 20px;
+}
+.App .App-intro .Configurations .Filter-Configurations #filters {
+  margin: 20px 0px;
+}
+.App .App-intro .Configurations .Filter-Configurations #filters div {
+  border: 1px solid black;
+}
+.App .App-intro .Configurations .Filter-Configurations #filters div p {
+  margin-right: 20px;
+}
+.App .App-intro .Configurations .Filter-Configurations #filters div p,
+.App .App-intro .Configurations .Filter-Configurations #filters div button {
+  display: inline-block;
+}
+.App .App-intro .Events div {
+  padding: 20px;
+}
+.App .App-intro .Events div:nth-child(even) {
+  background-color: #EEEEEE;
+  color: #3E4768;
+}
+.App .App-intro .Events div:nth-child(odd) {
+  background-color: #3E4768;
+  color: #EEEEEE;
+}
